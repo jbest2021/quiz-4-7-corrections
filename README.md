@@ -12,7 +12,7 @@
 
 11. I misplaced a parenthesis causing the second function not to work. 
 
-'''
+```
 
 function askedAndAnswered() {
 
@@ -43,7 +43,7 @@ let x = num / max
 console.log(x + "busses are required to accommodate" + y + "students and" + z + "chaperones.");
 }
 
-'''
+```
 
 ### Quiz 5
 
@@ -84,12 +84,17 @@ console.log(x + "busses are required to accommodate" + y + "students and" + z + 
 
 11. This question was answered incorrectly because undefine wil not be inside of console. Since d is defined as 4 and d is the only thing that was being printed to the console, 4 is the only value to appear in the console. 
 
-13. 
+13. This was incorrect because i said that 1 and 2 would be printed to the console and this was incorrect. Since the console.log function is outside the if statement and the variable was declared with var keyword a reference error will occur at line 10. 
 
 ### Quiz 7
-1.
-2.
-4.
-11.
+1. I got this question incorrect for failing to include the second option in my answer. Since the second option also acheives desired goal of accepting an array of elements and printing each one to the screen one-by-one, it can be accpeted as a correct answer. 
+
+2. I got this question wrong because I selected the third option instead of the second option. The questions requirements can be met by using ``cars.lastIndexOf(car) !== -1`` as it is in the second option so it can be cosidered correct. 
+
+4. This question was answered incorrectly as i chose the thrid option instead of the second option. The code snippet will include 0 but exclude 20 which is why the second option is correct. 
+
+11. 
+ 
 13.
+
 14. For this question I chose the incorrect answer of the first option. The fourth option is actually correct because getLargest in this casewill return all negative numbers, which is not the goal of the function.
